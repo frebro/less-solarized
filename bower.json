@@ -1,6 +1,7 @@
 {
   "name": "less-solarized",
   "version": "0.1.0",
+  "main": "solarized.less",
   "ignore": [
     "bower.json"
   ]
