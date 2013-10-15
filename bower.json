@@ -1,0 +1,7 @@
+{
+  "name": "less-solarized",
+  "version": "0.1.0",
+  "ignore": [
+    "bower.json"
+  ]
+}
